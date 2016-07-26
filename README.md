@@ -13,5 +13,7 @@
 
 ### 配置及使用
 安装好python及pip后，安装项目需要用到的包
+
     pip install -r requirements.txt
+
 直接运行run.py或部署nginx+uwsgi+flask环境使用
