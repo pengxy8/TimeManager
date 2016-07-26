@@ -1,0 +1,6 @@
+*.pyc
+*.zip
+flask
+log
+wsgi.wsgi
+test.py
